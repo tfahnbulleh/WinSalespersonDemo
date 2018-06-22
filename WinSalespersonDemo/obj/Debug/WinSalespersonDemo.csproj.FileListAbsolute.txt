@@ -1,0 +1,10 @@
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\bin\Debug\WinSalespersonDemo.exe.config
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\bin\Debug\WinSalespersonDemo.exe
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\bin\Debug\WinSalespersonDemo.pdb
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.csprojAssemblyReference.cache
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.Form1.resources
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.Properties.Resources.resources
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.csproj.GenerateResource.cache
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.exe
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\WinSalespersonDemo\WinSalespersonDemo\obj\Debug\WinSalespersonDemo.pdb
